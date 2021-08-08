@@ -1,0 +1,3 @@
+[submodule "zen-doxygen-theme"]
+	path = zen-doxygen-theme
+	url = https://github.com/ZenLibraries/zen-doxygen-theme.git
